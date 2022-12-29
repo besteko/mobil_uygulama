@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="RGB"
+        android:id="@+id/rgb"/>
+    <item android:title="Snack Bar"
+        android:id="@+id/snackbar"/>
+    <item android:title="Çıkış Yap"
+        android:id="@+id/cikisyap"/>
+</menu>
